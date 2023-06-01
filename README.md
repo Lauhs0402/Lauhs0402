@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Laura Hoyos, a junior web developer with knowledge in testing.
+👋 Hi, I'm Laura Hoyos, a junior web developer with knowledge in testing.
 
 I like to create and generate sustainable ideas that help the planet or homeless animals 🐈🌳☘🐕
 
