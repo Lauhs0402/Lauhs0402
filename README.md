@@ -1,4 +1,4 @@
-👋 Hi, I'm Laura Hoyos, a junior web developer with knowledge in testing, and I also have experience in wordpress and structured designs in elementor.
+👋 Hi, I'm Laura Hoyos, a data analyst trainee, and I also have experience in wordpress and structured designs in elementor.
 
 I like to create and generate sustainable ideas that help the planet or homeless animals 🐈🌳☘🐕
 
